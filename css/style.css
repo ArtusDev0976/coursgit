@@ -6,6 +6,26 @@ body{
 .container{
   width: 100%;
   overflow: auto;
+  align-items: center;
+  
+}
+.container div{
+  float: left;
+  width: 25%;
+  text-align: left;
+  border-radius: 10px;
+  margin-left: 5px;
+  padding: 10px;
+}
+
+.bg-green-sea{
+  background-color:#16a085;
+}
+.bg-green-nephritis{
+  background-color:#27ae60;
+}
+.bg-blue-belize{
+  background-color:#2980b9;
 }
 
 
